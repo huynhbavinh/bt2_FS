@@ -10,6 +10,11 @@
     color: white;
 }
 
+.font-menu:hover {
+    text-decoration: orange underline;
+    color: orange;
+}
+
 body {
     background-color: rgb(58, 57, 57);
 }
@@ -180,4 +185,8 @@ footer {
 .lien-he>div>a {
     text-decoration: none;
     color: white;
+}
+
+.info a:hover {
+    color: orange;
 }
